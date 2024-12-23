@@ -1,2 +1,3 @@
 # Project
-Gerald N. Bonalos 1st year BSIT Section 1A
+Gerald N. Bonalos/De Jay Saigad
+1st year BSIT Section 1A
